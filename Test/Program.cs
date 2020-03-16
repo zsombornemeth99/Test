@@ -22,7 +22,7 @@ namespace Test
                 sum += i;
             }
             Console.WriteLine(sum);
-
+          
             Console.ReadLine();
         }
     }
